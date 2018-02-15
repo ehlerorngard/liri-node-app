@@ -8,7 +8,6 @@ var queryOMDB = function(movie) {
 			request('http://www.omdbapi.com/?apikey=40e9cece&t=' + this.movie, function (error, response, body) {
 				if (error) throw error;
 				var newBody = JSON.parse(body);
-				console.log(newBody);
 				console.log(
 					"Movie title: " + newBody.Title +
 					"\nYear: " + newBody.Year +

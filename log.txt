@@ -300,3 +300,36 @@ album: Covers Part IV
 artist: Anthem Lights
 song preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=4f3db5947be24cec9958bcdc65e546a9
 >>––––––––> [ø] <––––––––<<
+Total # of tweets I have made: 1
+The tweet text: 'i have one tweet'
+Tweet created: Thu Feb 15 08:17:01 +0000 2018
+<^>____<^>____<^>____<^>
+track: Here Comes The Sun - Remastered
+album: Abbey Road (Remastered)
+artist: The Beatles
+song preview: null
+>>––––––––> [ø] <––––––––<<
+track: Till Dawn (Here Comes The Sun)
+album: Trilogy
+artist: The Weeknd
+song preview: null
+>>––––––––> [ø] <––––––––<<
+track: Here Comes The Sun - 2004 Digital Remaster
+album: Live In Japan
+artist: George Harrison
+song preview: null
+>>––––––––> [ø] <––––––––<<
+track: Here Comes the Sun - Remastered
+album: Here Comes The Sun
+artist: Nina Simone
+song preview: https://p.scdn.co/mp3-preview/330e0f66a968a1b67036dc06d3affc3e3c9e5bef?cid=4f3db5947be24cec9958bcdc65e546a9
+>>––––––––> [ø] <––––––––<<
+Movie title: Star Wars: The Force Awakens
+Year: 2015
+IMDB rating: 8.0
+Rotten Tomatoes: 93%
+Country of origin: USA
+Language: English
+Plot: Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker.
+Actors: Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver
+|–––––––<o>–––––––|
