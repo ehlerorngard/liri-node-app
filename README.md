@@ -24,4 +24,10 @@ API keys are required to access the three employed APIs;  if the keys utilized i
 
 ## Running the App
 
-Simply run the file 'liri.js' in the terminal.  
+Simply run the file 'liri.js' in the terminal by entering the following:
+
+```
+node liri.js
+```
+
+Note on request entry:  word(s)/name(s) must be spelled correctly to register a reponse from the database, as no additional search algorithms or validation is employed. 
