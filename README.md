@@ -5,10 +5,10 @@ This app is a very basic language interpretation and recognition interface, whic
 
 ## Demo
 
-![]()
+![](https://github.com/ehlerorngard/liri-node-app/blob/master/assets/liriDemo.gif)
 
 a code sample:
-![]()
+![](https://github.com/ehlerorngard/liri-node-app/blob/master/assets/liriCodeSnippet2.png)
 
 
 ## Running the App Locally
