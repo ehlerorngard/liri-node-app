@@ -1,11 +1,15 @@
 var request = require('request');
 var fs = require('fs');
+var keys = require('./keys');
 
 var queryOMDB = function(movie) {
 	this.movie = movie;
 	this.getMovie = function(){
 		if (this.movie !== "") {
-			request('http://www.omdbapi.com/?apikey=40e9cece&t=' + this.movie, function (error, response, body) {
+			request('http://www.omdbapi.com/?apikey=' 
+					+ keys.omdb.key 
+					+ '&t=' 
+					+ this.movie, function (error, response, body) {
 				if (error) throw error;
 				var newBody = JSON.parse(body);
 				console.log(

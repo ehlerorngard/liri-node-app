@@ -8,7 +8,11 @@ var spotifyKeys = {
 	client_ID: '4f3db5947be24cec9958bcdc65e546a9',
 	client_secret: '1bbd8c8be5644aec94998424e0832de9'
 };
+var omdbKeys = {
+	key: '40e9cece'
+};
 module.exports = {
 	twitter: twitterKeys,
-	spotify: spotifyKeys
+	spotify: spotifyKeys,
+	omdb: omdbKeys
 };

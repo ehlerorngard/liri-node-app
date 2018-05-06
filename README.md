@@ -1,33 +1,40 @@
 # liri-node-app
 
-This is an app is a very basic language interpretation and recognition interface, which can return twitter, movie, and music data.  
-
-## Getting Started
-
-This app is available from my GitHub account at https://github.com/ehlerorngard/liri-node-app.  
+This is an app is a very basic language interpretation and recognition interface, which can return twitter, movie, and music data.  It also keeps and updates a log of all requests made.  
 
 
-### Prerequisites
+## Demo
+
+![]()
+
+a code sample:
+![]()
+
+
+## Running the App Locally
+
+#### Prerequisites
 
 You'll need node package manager. 
 
 
-### Installing
+#### Installing
 
 To run this app you'll need these packages installed:  twitter, node-spotify-api, inquirer, and request.  
 
 At the directory's root after cloning down the repository, enter in the terminal:
 
 ```
-npm install twitter
-npm install node-spotify-api
-npm install request
-npm install inquirer
+npm install 
 ```
 
 API keys are required to access the APIs;  if they keys utilized in the code aren't working, you'll need to request your own and insert them.  
 
 
-## Running the App
+#### Running the App
 
-Simply open the file 'liri.js' in the terminal.  
+Simply open the file 'liri.js' in the terminal:
+```
+node liri.js
+```  
+A note on request entry: word(s)/name(s), though not case sensitive, must be spelled correctly to register a reponse from the database, as no additional search algorithms or validation is employed.
